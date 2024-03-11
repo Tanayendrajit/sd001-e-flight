@@ -1,70 +1,92 @@
-# Getting Started with Create React App
+UI & Design (Expected Time- 7 Business Days): UI Design Tools:
+1. Figma
+2. Sketch
+3. Adobe XD
+4. Adobe Photoshop
+5. Adobe Illustrator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Code Editors:
+1. Visual Studio Code (VSCode)
+2. Sublime Text
+3. Atom
+4. Notepad++
+5. Brackets
+6. WebStorm
 
-## Available Scripts
 
-In the project directory, you can run:
+ Frontend UI Design Tools for Website:
+1. Figma
+2. Sketch
+3. Adobe XD
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ Frontend Code Editors for Website:
+1. Visual Studio Code (VSCode)
+2. Sublime Text
+3. Atom
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+ Backend Code Editors for Website:
+1. Visual Studio Code (VSCode)
+2. Sublime Text
+3. Atom
+4. IntelliJ IDEA
+5. Eclipse
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Page 1- Landing Page (Suprakash) 
 
-### `npm run build`
+Page 1.1- Animation Page for Loading 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Page 2- Login/Signup (Sanchari) 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Page 3- Search Functionalities and Flights (Rahul) 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Page 4- Ticket Booking (Rohit) 
 
-### `npm run eject`
+Page 5- Payment (Ritobrata) 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Page 6- Ticket Confirmation (Ankan) 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+[Rahul, Ankan, Suprakash, Ritobrata, Sanchari, Rohit] 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+ //========================================================================
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+FRD & TDD : 
 
-## Learn More
+[Santanu, Nishchay, Sagnik, Subrat ]
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+//=========================================================================
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+FRONT END : Technologies: React.js 
 
-### Code Splitting
+[Anshu, Seetha, Vishnu, Sagnik, Sirigiri, Karan , Tanay]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+//========================================================================
 
-### Analyzing the Bundle Size
+BACK END : Spring, Spring Boot, MVC
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+[Nishchay, Rohit, Santanu, Tanay, Rashmi, Debojyoti] 
 
-### Making a Progressive Web App
+//========================================================================
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Payment Gateway: Stripe
 
-### Advanced Configuration
+[Rashmitha, Nisha, Suraj, Sangam ]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+//=======================================================================
+Database: MongoDB:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+[Nishchay, Rohit, Santanu, Tanay, Rashmi, Vishnu, Debojyoti]
 
-### `npm run build` fails to minify
+//========================================================================
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Testing and Quality Assurance :
+
+Everyone 
+
+//=======================================================================
+
+Handling the Github Repository :
+
+[Tanay]
