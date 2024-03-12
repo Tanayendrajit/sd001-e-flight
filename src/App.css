@@ -11,13 +11,13 @@ h1{
     width: 100px;
     margin-left: 565px;
 }
-.btn
+.login
 {
     border: none;
-    background-color: rgb(3, 102, 90);
+    background-color: rgb(7, 153, 136) !important;
     transition: background-color 0.3s, color 0.3s;
 }
 
-.btn.hover{
-    background-color: rgb(3, 65, 58);
+.login:hover{
+    background-color: rgb(3, 65, 58) !important;
 }
