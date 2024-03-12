@@ -11,13 +11,26 @@ h1{
     width: 100px;
     margin-left: 565px;
 }
+
+.navbar-brand img {
+    filter: invert(100%) brightness(100);
+}
+
+.navbar-brand img:hover {
+    filter: brightness(200%) grayscale(20%);
+}
+
 .btn
 {
     border: none;
-    background-color: rgb(3, 102, 90);
+    background-color: rgb(39, 144, 172);
     transition: background-color 0.3s, color 0.3s;
 }
 
-.btn.hover{
-    background-color: rgb(3, 65, 58);
+.button-hover-class:hover {
+    background-color: rgb(27, 97, 116);
+}
+
+.nav-item a {
+    color: white;
 }

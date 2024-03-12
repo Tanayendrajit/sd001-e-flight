@@ -5,34 +5,34 @@ import UserIcon from '../../img/usericon.png';
 function Header () {
     return (
         <>
-            <nav className="navbar navbar-expand-lg bg-body-tertiary">
+            <nav className="navbar navbar-expand-lg bg-dark bg-gradient">
                 <div className="container-fluid">
                     <a className='navbar-brand' href="#">
                         <img src={Logo} style={{height:60, width:"100%"}} alt='' />
                     </a>
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
+                    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span className="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav ms-auto">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
+    <div className="collapse navbar-collapse" id="navbarNav">
+      <ul className="navbar-nav ms-auto">
+        <li className="nav-item">
+          <a className="nav-link active" aria-current="page" href="#">Home</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Check-in</a>
+        <li className="nav-item">
+          <a className="nav-link" href="#">Check-in</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Bookings</a>
+        <li className="nav-item">
+          <a className="nav-link" href="#">Bookings</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Pricing</a>
+        <li className="nav-item">
+          <a className="nav-link" href="#">Pricing</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">About</a>
+        <li className="nav-item">
+          <a className="nav-link" href="#">About</a>
         </li>
-        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
-            <button class="btn btn-primary me-md-2" type="button">Login</button> 
-            {/*  */}
+        <div className="d-grid gap-2 mx-2 d-md-flex justify-content-md-end">
+            <button className="btn btn-primary me-md-2 button-hover-class" type="button">Login</button> 
+            
         </div>
       </ul>
     </div>
@@ -46,8 +46,8 @@ export default Header;
 
 
 /*
-<nav class="navbar navbar-expand-lg bg-body-tertiary">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">Navbar</a>
+<nav className="navbar navbar-expand-lg bg-body-tertiary">
+  <div className="container-fluid">
+    <a className="navbar-brand" href="#">Navbar</a>
     
 */
