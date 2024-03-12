@@ -11,6 +11,7 @@ h1{
     width: 100px;
     margin-left: 565px;
 }
+<<<<<<< HEAD
 
 .navbar-brand img {
     filter: invert(100%) brightness(100);
@@ -33,4 +34,15 @@ h1{
 
 .nav-item a {
     color: white;
+=======
+.login
+{
+    border: none;
+    background-color: rgb(7, 153, 136) !important;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.login:hover{
+    background-color: rgb(3, 65, 58) !important;
+>>>>>>> 877aef00225e4482fbaa7fa9c1a07c7e37ae5b8f
 }
