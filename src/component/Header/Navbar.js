@@ -14,7 +14,7 @@ function Header () {
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav">
+      <ul class="navbar-nav ms-auto">
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#">Home</a>
         </li>
@@ -30,9 +30,10 @@ function Header () {
         <li class="nav-item">
           <a class="nav-link" href="#">About</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Login/Signup</a>
-        </li>
+        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+            <button class="btn btn-primary me-md-2" type="button">Login</button> 
+            {/*  */}
+        </div>
       </ul>
     </div>
   </div>
