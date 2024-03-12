@@ -31,10 +31,13 @@ function Header () {
         <li class="nav-item">
           <Link class="nav-link" to="/about">About</Link>
         </li>
-        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+        <li class="nav-item">
+          <Link class="nav-link login btn btn-primary me-md-2 text-white" to="/login">Login</Link>
+        </li>
+        {/* <div class="d-grid gap-2 d-md-flex justify-content-md-end">
             <button class="btn btn-primary me-md-2" type="button">Login</button> 
-            {/*  */}
-        </div>
+            
+        </div> */}
       </ul>
     </div>
   </div>
